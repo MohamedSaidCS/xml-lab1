@@ -1,0 +1,106 @@
+<Library location="24 abc st." description="this is library description" librarian="mohamed">
+    <Book title="Book 1" ISBN="123456" Author="Book 1 Author">
+        <Preface>Book 1 preface</Preface>
+        <Part title="Part 1">
+            <Chapter title="Chapter 1">
+                <Summary>Chapter 1 summary</Summary>
+                <Section>This is paragraph 1 of chapter 1</Section>
+                <Section>This is paragraph 2 of chapter 1</Section>
+            </Chapter>
+            <Chapter title="Chapter 2">
+                <Summary>Chapter 2 summary</Summary>
+                <Section>This is paragraph 1 of chapter 2</Section>
+                <Section>This is paragraph 2 of chapter 2</Section>
+                <Section>This is paragraph 3 of chapter 2</Section>
+            </Chapter>
+        </Part>
+        <Part title="Part 2">
+            <Chapter title="Chapter 1">
+                <Summary>Chapter 1 summary</Summary>
+                <Section>This is paragraph 1 of chapter 1</Section>
+                <Section>This is paragraph 2 of chapter 1</Section>
+                <Section>This is paragraph 3 of chapter 1</Section>
+            </Chapter>
+            <Chapter title="Chapter 2">
+                <Summary>Chapter 2 summary</Summary>
+                <Section>This is paragraph 1 of chapter 2</Section>
+                <Section>This is paragraph 2 of chapter 2</Section>
+            </Chapter>
+            <Chapter title="Chapter 3">
+                <Summary>Chapter 2 summary</Summary>
+                <Section>This is paragraph 1 of chapter 3</Section>
+                <Section>This is paragraph 2 of chapter 3</Section>
+            </Chapter>
+        </Part>
+    </Book>
+
+    <Book title="Book 2" ISBN="456789" Author="Book 2 Author">
+        <Preface>Book 2 preface</Preface>
+        <Part title="Part 1">
+            <Chapter title="Chapter 1">
+                <Summary>Chapter 1 summary</Summary>
+                <Section>This is paragraph 1 of chapter 1</Section>
+                <Section>This is paragraph 2 of chapter 1</Section>
+            </Chapter>
+            <Chapter title="Chapter 2">
+                <Summary>Chapter 2 summary</Summary>
+                <Section>This is paragraph 1 of chapter 2</Section>
+                <Section>This is paragraph 2 of chapter 2</Section>
+                <Section>This is paragraph 3 of chapter 2</Section>
+            </Chapter>
+        </Part>
+        <Part title="Part 2">
+            <Chapter title="Chapter 1">
+                <Summary>Chapter 1 summary</Summary>
+                <Section>This is paragraph 1 of chapter 1</Section>
+                <Section>This is paragraph 2 of chapter 1</Section>
+                <Section>This is paragraph 3 of chapter 1</Section>
+            </Chapter>
+            <Chapter title="Chapter 2">
+                <Summary>Chapter 2 summary</Summary>
+                <Section>This is paragraph 1 of chapter 2</Section>
+                <Section>This is paragraph 2 of chapter 2</Section>
+            </Chapter>
+            <Chapter title="Chapter 3">
+                <Summary>Chapter 2 summary</Summary>
+                <Section>This is paragraph 1 of chapter 3</Section>
+                <Section>This is paragraph 2 of chapter 3</Section>
+            </Chapter>
+        </Part>
+    </Book>
+
+    <Book title="Book 3" ISBN="789123" Author="Book 3 Author">
+        <Preface>Book 3 preface</Preface>
+        <Part title="Part 1">
+            <Chapter title="Chapter 1">
+                <Summary>Chapter 1 summary</Summary>
+                <Section>This is paragraph 1 of chapter 1</Section>
+                <Section>This is paragraph 2 of chapter 1</Section>
+            </Chapter>
+            <Chapter title="Chapter 2">
+                <Summary>Chapter 2 summary</Summary>
+                <Section>This is paragraph 1 of chapter 2</Section>
+                <Section>This is paragraph 2 of chapter 2</Section>
+                <Section>This is paragraph 3 of chapter 2</Section>
+            </Chapter>
+        </Part>
+        <Part title="Part 2">
+            <Chapter title="Chapter 1">
+                <Summary>Chapter 1 summary</Summary>
+                <Section>This is paragraph 1 of chapter 1</Section>
+                <Section>This is paragraph 2 of chapter 1</Section>
+                <Section>This is paragraph 3 of chapter 1</Section>
+            </Chapter>
+            <Chapter title="Chapter 2">
+                <Summary>Chapter 2 summary</Summary>
+                <Section>This is paragraph 1 of chapter 2</Section>
+                <Section>This is paragraph 2 of chapter 2</Section>
+            </Chapter>
+            <Chapter title="Chapter 3">
+                <Summary>Chapter 2 summary</Summary>
+                <Section>This is paragraph 1 of chapter 3</Section>
+                <Section>This is paragraph 2 of chapter 3</Section>
+            </Chapter>
+        </Part>
+    </Book>
+</Library>
